@@ -36,7 +36,6 @@ public class NhapVaXuat {
 //        System.out.println("Name  : " + name);
         System.out.println("Name1  : " + name1);
 //        System.out.println("So = " + number);
-        // Nhap ten, lop , dia chi cua ban than tu ban phim.
-        // In ra man hinh
+       
     }
 }
