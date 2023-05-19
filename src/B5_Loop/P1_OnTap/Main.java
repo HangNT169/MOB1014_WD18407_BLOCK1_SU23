@@ -20,5 +20,11 @@ public class Main {
      * và in ra màn hình
      * 0. Thoát
      */
+    public static void main(String[] args) {
+        String[]a = new String[]{"a","b","c"};
+        for (String s : a) {
+            System.out.println(s);
+        }
+    }
 
 }
