@@ -38,6 +38,6 @@ public class LuyenTap {
             sum+=a[i];
 //            tich = tich * a[i] <=> tich *=a[i]
         }
-        
+       
     }
 }
